@@ -1,9 +1,5 @@
 # SQLD
 
-01.txt : 기초, select, from, where, 중복제거, 정렬
-
-02.txt : 함수, 반올림, 문자열, 치환, 삽입, 날짜, 요일, group by, order by
-
 
 
 ### emp : 초기 세팅
